@@ -22,7 +22,12 @@ This project was developed to strengthen frontend development skills, focusing o
 
 ## 📸 Preview
 
-![Shoe Brand Landing Page](images/preview.png)
+### Desktop View
+![Desktop View](images/DesktopView1.png)
+![Desktop View](images/DesktopView2.png)
+
+### Mobile View
+![Mobile View](images/Mobile View.png)
 
 ## 📌 Overview
 This project showcases responsive web design principles, modern UI layout techniques, and frontend development fundamentals using HTML, SCSS, and JavaScript.
