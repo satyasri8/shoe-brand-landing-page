@@ -16,7 +16,7 @@ A modern and responsive landing page built with HTML, SCSS, and JavaScript. Desi
 * SCSS (Sass)
 * JavaScript
 
-## 🎯 Project Goal
+## 🎯 Project Objective
 
 This project was developed to strengthen frontend development skills, focusing on responsive web design, SCSS architecture, and user interface implementation.
 
