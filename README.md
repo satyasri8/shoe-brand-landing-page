@@ -20,14 +20,16 @@ A modern and responsive landing page built with HTML, SCSS, and JavaScript. Desi
 
 This project was developed to strengthen frontend development skills, focusing on responsive web design, SCSS architecture, and user interface implementation.
 
-## 📸 Preview
+## 📸 Project Preview
 
 ### Desktop View
-![Desktop View 1](images/DesktopView1.jpg)
-![Desktop View 2](images/DesktopView2.jpg)
+
+![Desktop View 1](images/DesktopView1.png)
+
+![Desktop View 2](images/DesktopView2.png)
 
 ### Mobile View
-![Mobile View](images/Mobile View.jpg)
+![Mobile View](images/MobileView.jpg)
 
 ## 📌 Overview
 This project showcases responsive web design principles, modern UI layout techniques, and frontend development fundamentals using HTML, SCSS, and JavaScript.
