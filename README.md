@@ -29,7 +29,7 @@ This project was developed to strengthen frontend development skills, focusing o
 ![Desktop View 2](images/DesktopView2.png)
 
 ### Mobile View
-![Mobile View](images/MobileView.jpg)
+![Mobile View](images/MobileView.png)
 
 ## 📌 Overview
 This project showcases responsive web design principles, modern UI layout techniques, and frontend development fundamentals using HTML, SCSS, and JavaScript.
